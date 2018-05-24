@@ -1,0 +1,13 @@
+body { padding-top: 40px; }
+.col-sm-4 {
+  padding-top: 20px;
+}
+.img-numbers {
+  width: 100px;
+}
+.page-footer {
+  padding-bottom: 10px;
+}
+code {
+  word-break: break-all;
+}
